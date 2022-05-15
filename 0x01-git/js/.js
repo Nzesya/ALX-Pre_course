@@ -1,2 +1,2 @@
-js/main
-js/index
+js/main.js
+js/index.js
